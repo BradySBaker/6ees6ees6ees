@@ -13,3 +13,4 @@ class RetiredForagerBee extends ForagerBee {
     this.treasureChest.push(treasure);
   }
 };
+//
